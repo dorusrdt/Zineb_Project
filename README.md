@@ -40,3 +40,15 @@ Voici un petit exercice pour t'entraîner à modifier le code :
 Si la distance length est inférieure à 20, afficher un "X" dans le rectangle.
 
 Sinon, afficher un "O".
+
+
+🔽 Étapes pour télécharger :
+Va sur la page GitHub du projet (ex : https://github.com/ton-nom-utilisateur/nom-du-projet)
+
+Clique sur le bouton vert "Code".
+
+Dans le menu déroulant, clique sur "Download ZIP".
+
+Une fois le fichier .zip téléchargé, décompresse-le (clic droit > "Extraire tout").
+
+Ouvre PyCharm et choisis le dossier extrait avec File > Open.
