@@ -29,3 +29,14 @@ Il est conçu pour apprendre **pas à pas** à utiliser la **vision par ordinate
    - Clique sur `Add Interpreter > Add Local Environment`.
    - Clique sur `select existing` apres sur  `OK` .
    - Clique sur OK.
+
+
+Voici un petit exercice pour t'entraîner à modifier le code :
+
+🧠 Objectif : Afficher un "X" ou un "O" dans le rectangle vide selon la distance entre l’index et le majeur.
+
+📝 Consigne :
+
+Si la distance length est inférieure à 20, afficher un "X" dans le rectangle.
+
+Sinon, afficher un "O".
