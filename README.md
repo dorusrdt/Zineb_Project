@@ -43,7 +43,6 @@ Sinon, afficher un "O".
 
 
 🔽 Étapes pour télécharger :
-Va sur la page GitHub du projet (ex : https://github.com/ton-nom-utilisateur/nom-du-projet)
 
 Clique sur le bouton vert "Code".
 
